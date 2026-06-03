@@ -11,6 +11,10 @@ This document explains the steps taken to successfully complete the Git and GitL
   -  Created a new repository on GitHub named git-practice-task.
   -  Set the visibility to Public and initialized it with a default README file.
 
+---
+
+- #### Screenshot
+
    ![](<screenshots/Screenshot 2026-06-03 123043.png>)
 
 ---
@@ -20,6 +24,10 @@ This document explains the steps taken to successfully complete the Git and GitL
   - Opened the terminal and cloned the repository to the local machine using the git clone command.
   - Navigated into the project directory using the cd command to begin working.
 
+---
+
+- #### Screenshot
+- 
    ![](<screenshots/Screenshot 2026-06-03 123349.png>)
   
 
@@ -31,6 +39,10 @@ This document explains the steps taken to successfully complete the Git and GitL
   - Saved the file, staged the changes, and committed them with a descriptive message.
   - Pushed the updated README to the main branch on GitHub.
 
+---
+
+- #### Screenshot
+- 
    ![](<screenshots/Screenshot 2026-06-03 123903.png>)
 
 
@@ -43,6 +55,10 @@ This document explains the steps taken to successfully complete the Git and GitL
   - Committed the file and pushed the feature-A branch to GitHub.
   - Navigated to GitHub and opened a Pull Request from feature-A to main, leaving it open without merging.
 
+---
+
+- #### Screenshots
+- 
    ![](<screenshots/Screenshot 2026-06-03 124222.png>)
 
 
@@ -60,6 +76,10 @@ This document explains the steps taken to successfully complete the Git and GitL
   - Committed these changes and pushed feature-B to GitHub.
   - Opened a second Pull Request from feature-B to main.
 
+---
+
+- #### Screenshots
+
    ![](<screenshots/Screenshot 2026-06-03 124656.png>)
 
 
@@ -74,6 +94,10 @@ This document explains the steps taken to successfully complete the Git and GitL
   - Went to the GitHub Pull Requests tab.
   - Reviewed the code for feature-A and successfully merged it into the main branch.
 
+---
+
+- #### Screenshot
+  
    ![](<screenshots/Screenshot 2026-06-03 124950.png>)
 
 
@@ -86,6 +110,10 @@ This document explains the steps taken to successfully complete the Git and GitL
   - Opened index.html, manually resolved the conflict by keeping the correct lines of code.
   - Committed the resolved file and pushed the update back to GitHub.
 
+---
+
+- #### Screenshots
+- 
    ![](<screenshots/Screenshot 2026-06-03 132534.png>)
 
 
@@ -102,6 +130,10 @@ This document explains the steps taken to successfully complete the Git and GitL
   - Made a small, helpful edit to the README file, committed the change, and pushed it to my fork.
   - Created a new Pull Request from my fork back to the original repository.
 
+---
+
+- #### Screenshots
+- 
    ![](<screenshots/Screenshot 2026-06-03 133103.png>)
 
    ![](<screenshots/Screenshot 2026-06-03 133541.png>)
@@ -119,6 +151,10 @@ This document explains the steps taken to successfully complete the Git and GitL
   - Created the required folder and file structure (src/app.py and docs/guide.md), along with a README.md.
   - Committed the new directory structure and pushed it to GitLab.
 
+---
+
+- #### Screenshots
+- 
    ![](<screenshots/Screenshot 2026-06-03 134954.png>)
 
    ![](<screenshots/Screenshot 2026-06-03 135131.png>)
@@ -126,7 +162,6 @@ This document explains the steps taken to successfully complete the Git and GitL
    ![](<screenshots/Screenshot 2026-06-03 135639.png>)
 
    ![](<screenshots/Screenshot 2026-06-03 135738.png>)
-
 
 
 ---
@@ -138,6 +173,10 @@ This document explains the steps taken to successfully complete the Git and GitL
   - Set the mirror direction to "Push".
   - Made a test commit on GitLab, and verified that the change automatically appeared in the GitHub repository.
 
+---
+
+- #### Screenshots
+- 
   ![](<screenshots/Screenshot 2026-06-03 140601.png>)
 
   ![](<screenshots/Screenshot 2026-06-03 140834.png>)
@@ -150,7 +189,11 @@ This document explains the steps taken to successfully complete the Git and GitL
   - Added a branch protection rule for the main branch.
   - Checked the box to "Require a pull request before merging" and saved the rules.
   - Attempted to push a change directly to main from my local terminal and confirmed that the push was successfully blocked.
+    
+---
 
+- #### Screenshots
+- 
     ![](<screenshots/Screenshot 2026-06-03 145645.png>)
 
     ![](<screenshots/Screenshot 2026-06-03 145910.png>)
